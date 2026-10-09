@@ -1,0 +1,14 @@
+[
+  {"id":"traffic_meltdown","name":"交通大癱瘓","text":"連續施工加上事故，台中交通全面癱瘓。到任何交通地點或市府回應危機（1 AP ＋ $80）。","respondTags":"transport|government","respondCost":{"money":80},"targetPerPlayer":2,
+   "onStart":[{"type":"modifier","key":"move_cost_add","scope":{},"value":1,"duration":1}],
+   "success":{"topVP":5,"vpPerContribution":1,"text":"交通恢復順暢，市民記得是誰出手。"},"failure":{"vp":-4,"text":"交通癱瘓拖垮全城，所有人扣分。"}},
+  {"id":"flood","name":"豪雨水患","text":"豪雨成災，低窪地區淹水。到綠地、河岸或大學協助救災（1 AP ＋ 1 情報）。","respondTags":"nature|education","respondCost":{"info":1},"targetPerPlayer":2,
+   "onStart":[{"type":"close","scope":{"district":"old_town","tag":"nature"},"duration":1}],
+   "success":{"topVP":5,"vpPerContribution":1,"text":"水退了，城市比想像中更堅韌。"},"failure":{"vp":-4,"text":"災後復原緩慢，所有人扣分。"}},
+  {"id":"recession","name":"景氣寒冬","text":"消費急凍，店家接連歇業。到購物或餐飲地點撐住商圈（1 AP ＋ $100）。","respondTags":"shopping|food","respondCost":{"money":100},"targetPerPlayer":2,
+   "onStart":[{"type":"modifier","key":"income_mult","scope":{"tag":"shopping|food"},"value":0.6,"duration":2}],
+   "success":{"topVP":5,"vpPerContribution":1,"text":"商圈撐過寒冬，街上重新有了人聲。"},"failure":{"vp":-4,"text":"整排鐵門拉下，所有人扣分。"}},
+  {"id":"trust_crisis","name":"公共信任危機","text":"一連串假消息讓市民互相猜疑。到文化、宗教或市府地點穩定人心（1 AP ＋ 1 影響力）。","respondTags":"culture|religion|government","respondCost":{"influence":1},"targetPerPlayer":2,
+   "onStart":[{"type":"grant","target":"all","resources":{"info":1}}],
+   "success":{"topVP":5,"vpPerContribution":1,"text":"城市重新找回彼此的信任。"},"failure":{"vp":-4,"text":"猜疑蔓延，所有人扣分。"}}
+]

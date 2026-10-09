@@ -1,0 +1,73 @@
+{
+ "baseAP": 6,
+ "defaultRounds": 8,
+ "roundOptions": [
+  6,
+  8,
+  10,
+  12
+ ],
+ "minPlayers": 2,
+ "maxPlayers": 6,
+ "startingResources": {
+  "money": 800,
+  "influence": 1,
+  "info": 1
+ },
+ "apCost": {
+  "MOVE": null,
+  "TRANSIT": 2,
+  "EXPLORE": 1,
+  "INVESTIGATE": 1,
+  "WORK": 1,
+  "INVEST": 2,
+  "BUILD": 2,
+  "CONTEST": 3,
+  "TRADE_OFFER": 1,
+  "POST_CONTRACT": 1,
+  "ACCEPT_CONTRACT": 0,
+  "RESPOND_CRISIS": 1,
+  "SELL_INFO": 1
+ },
+ "edgeCostByKm": [
+  [
+   0.9,
+   1
+  ],
+  [
+   2.2,
+   2
+  ],
+  [
+   999,
+   3
+  ]
+ ],
+ "edgeTypeCost": {
+  "rail": 2
+ },
+ "openingRounds": 2,
+ "finaleRounds": 2,
+ "abilityDraftRounds": [
+  3,
+  6,
+  9
+ ],
+ "maxStakesPerPoi": 6,
+ "maxLevel": 3,
+ "contestInfluenceCost": 1,
+ "contestMaxInfoSpend": 2,
+ "struggleThreshold": 120,
+ "recoverThreshold": 450,
+ "controlUpkeepFree": 3,
+ "controlUpkeepPerExtra": 30,
+ "leaderInvestSurcharge": 0.2,
+ "sellInfoPrice": 80,
+ "contractMinReward": 50,
+ "contractDuration": 3,
+ "npcContractsPerRound": 1,
+ "turnTimeoutSec": 600,
+ "influencePerVP": 3,
+ "explorePerVP": 4,
+ "buildCostFactor": 0.6
+}

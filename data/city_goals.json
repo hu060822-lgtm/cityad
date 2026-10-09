@@ -1,0 +1,7 @@
+[
+  {"id":"prosperity","name":"城市繁榮","description":"每個你控制的購物或餐飲地點 +2 分；控制最多者再 +4 分。","scoring":{"kind":"control_tag","key":"shopping|food","vpEach":2,"topBonus":4}},
+  {"id":"culture_revival","name":"文化復興","description":"每個你控制的文化或宗教地點 +2 分；控制最多者再 +4 分。","scoring":{"kind":"control_tag","key":"culture|religion","vpEach":2,"topBonus":4}},
+  {"id":"wander","name":"漫遊台中","description":"每探索 4 個地點 +1 分；探索最多者再 +3 分。","scoring":{"kind":"stat","key":"explored","every":4,"vpEach":1,"topBonus":3}},
+  {"id":"mobility","name":"交通城市","description":"每控制 1 個交通地點 +3 分；轉乘最多者再 +4 分。","scoring":{"kind":"control_tag","key":"transport","vpEach":3,"topBonus":4,"topStat":"transits"}},
+  {"id":"knowledge","name":"知識城市","description":"每控制 1 個教育地點 +3 分；終局情報最多者再 +4 分。","scoring":{"kind":"control_tag","key":"education","vpEach":3,"topBonus":4,"topResource":"info"}}
+]

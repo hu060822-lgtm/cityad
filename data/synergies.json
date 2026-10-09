@@ -1,0 +1,8 @@
+[
+  {"id":"academic_circle","name":"學術圈","requires":["education","books|cafe|research"],"perRound":{"info":1},"vp":3,"description":"大學與書店／咖啡廳相鄰，研究資源湧現。"},
+  {"id":"commerce_circle","name":"商業圈","requires":["transport","shopping|food"],"perRound":{"money":50},"vp":3,"description":"交通節點帶來人潮，商圈收益提升。"},
+  {"id":"culture_walk","name":"文化散步道","requires":["culture","nature"],"perRound":{"influence":1},"vp":3,"description":"展館與綠地串連，成為城市名片。"},
+  {"id":"temple_market","name":"廟口經濟","requires":["religion","food|market"],"perRound":{"money":30,"influence":1},"vp":3,"description":"香火與小吃互相帶動。"},
+  {"id":"night_life","name":"夜生活圈","requires":["youth","shopping|entertainment"],"perRound":{"money":40},"vp":2,"description":"年輕人潮讓夜晚比白天更熱鬧。"},
+  {"id":"heritage_line","name":"歷史街區","requires":["historic","historic","historic"],"perRound":{"influence":1,"info":1},"vp":4,"description":"三處歷史建築形成可以導覽的舊城路線。"}
+]

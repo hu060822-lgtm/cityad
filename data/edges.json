@@ -1,0 +1,542 @@
+[
+ {
+  "from": "tc_station",
+  "to": "miyahara",
+  "type": "walk"
+ },
+ {
+  "from": "tc_station",
+  "to": "lvchuan",
+  "type": "walk"
+ },
+ {
+  "from": "miyahara",
+  "to": "lvchuan",
+  "type": "walk"
+ },
+ {
+  "from": "lvchuan",
+  "to": "taichung_park",
+  "type": "walk"
+ },
+ {
+  "from": "miyahara",
+  "to": "second_market",
+  "type": "walk"
+ },
+ {
+  "from": "second_market",
+  "to": "taichung_prefecture",
+  "type": "walk"
+ },
+ {
+  "from": "taichung_prefecture",
+  "to": "martial_arts_hall",
+  "type": "walk"
+ },
+ {
+  "from": "tc_station",
+  "to": "cultural_park",
+  "type": "walk"
+ },
+ {
+  "from": "cultural_park",
+  "to": "nlpi",
+  "type": "road"
+ },
+ {
+  "from": "nlpi",
+  "to": "nchu",
+  "type": "road"
+ },
+ {
+  "from": "tc_station",
+  "to": "lecheng_temple",
+  "type": "road"
+ },
+ {
+  "from": "taichung_park",
+  "to": "yizhong_street",
+  "type": "walk"
+ },
+ {
+  "from": "yizhong_street",
+  "to": "chungyo",
+  "type": "walk"
+ },
+ {
+  "from": "chungyo",
+  "to": "cmu",
+  "type": "walk"
+ },
+ {
+  "from": "second_market",
+  "to": "taichung_park",
+  "type": "walk"
+ },
+ {
+  "from": "martial_arts_hall",
+  "to": "ntmofa",
+  "type": "road"
+ },
+ {
+  "from": "ntmofa",
+  "to": "shenji",
+  "type": "walk"
+ },
+ {
+  "from": "shenji",
+  "to": "calligraphy_greenway",
+  "type": "walk"
+ },
+ {
+  "from": "calligraphy_greenway",
+  "to": "cmp_eslite",
+  "type": "walk"
+ },
+ {
+  "from": "cmp_eslite",
+  "to": "nmns",
+  "type": "walk"
+ },
+ {
+  "from": "nmns",
+  "to": "cmu",
+  "type": "road"
+ },
+ {
+  "from": "cmp_eslite",
+  "to": "jingming_1st",
+  "type": "road"
+ },
+ {
+  "from": "ntmofa",
+  "to": "wanhe_temple",
+  "type": "road"
+ },
+ {
+  "from": "wanhe_temple",
+  "to": "wenxin_forest_park",
+  "type": "walk"
+ },
+ {
+  "from": "jingming_1st",
+  "to": "city_hall",
+  "type": "road"
+ },
+ {
+  "from": "city_hall",
+  "to": "skm_zhonggang",
+  "type": "walk"
+ },
+ {
+  "from": "skm_zhonggang",
+  "to": "national_theater",
+  "type": "walk"
+ },
+ {
+  "from": "national_theater",
+  "to": "maple_garden",
+  "type": "walk"
+ },
+ {
+  "from": "maple_garden",
+  "to": "chaoma_terminal",
+  "type": "road"
+ },
+ {
+  "from": "city_hall",
+  "to": "wenxin_forest_park",
+  "type": "road"
+ },
+ {
+  "from": "skm_zhonggang",
+  "to": "fengjia_market",
+  "type": "road"
+ },
+ {
+  "from": "fengjia_market",
+  "to": "fcu",
+  "type": "walk"
+ },
+ {
+  "from": "fcu",
+  "to": "central_park",
+  "type": "walk"
+ },
+ {
+  "from": "fengjia_market",
+  "to": "chaoma_terminal",
+  "type": "road"
+ },
+ {
+  "from": "chaoma_terminal",
+  "to": "luce_chapel",
+  "type": "road"
+ },
+ {
+  "from": "central_park",
+  "to": "intercontinental_stadium",
+  "type": "road"
+ },
+ {
+  "from": "intercontinental_stadium",
+  "to": "cmu",
+  "type": "road"
+ },
+ {
+  "from": "nmns",
+  "to": "central_park",
+  "type": "road"
+ },
+ {
+  "from": "wanhe_temple",
+  "to": "rainbow_village",
+  "type": "road"
+ },
+ {
+  "from": "rainbow_village",
+  "to": "thsr_taichung",
+  "type": "road"
+ },
+ {
+  "from": "thsr_taichung",
+  "to": "tc_station",
+  "type": "rail"
+ },
+ {
+  "from": "thsr_taichung",
+  "to": "nchu",
+  "type": "road"
+ },
+ {
+  "from": "nchu",
+  "to": "cultural_park",
+  "type": "road"
+ },
+ {
+  "from": "martial_arts_hall",
+  "to": "nlpi",
+  "type": "road"
+ },
+ {
+  "from": "maple_garden",
+  "to": "fengjia_market",
+  "type": "road"
+ },
+ {
+  "from": "nmns",
+  "to": "jingming_1st",
+  "type": "road"
+ },
+ {
+  "from": "miyahara",
+  "to": "fourth_credit",
+  "type": "walk"
+ },
+ {
+  "from": "fourth_credit",
+  "to": "second_market",
+  "type": "walk"
+ },
+ {
+  "from": "taichung_prefecture",
+  "to": "taichung_city_office",
+  "type": "walk"
+ },
+ {
+  "from": "taichung_city_office",
+  "to": "liuchuan",
+  "type": "walk"
+ },
+ {
+  "from": "liuchuan",
+  "to": "second_market",
+  "type": "walk"
+ },
+ {
+  "from": "liuchuan",
+  "to": "martial_arts_hall",
+  "type": "walk"
+ },
+ {
+  "from": "second_market",
+  "to": "zhonghua_night_market",
+  "type": "walk"
+ },
+ {
+  "from": "zhonghua_night_market",
+  "to": "taichung_park",
+  "type": "walk"
+ },
+ {
+  "from": "tc_station",
+  "to": "warehouse_20",
+  "type": "walk"
+ },
+ {
+  "from": "warehouse_20",
+  "to": "imperial_sugar",
+  "type": "walk"
+ },
+ {
+  "from": "imperial_sugar",
+  "to": "jianguo_market",
+  "type": "walk"
+ },
+ {
+  "from": "jianguo_market",
+  "to": "lecheng_temple",
+  "type": "road"
+ },
+ {
+  "from": "lecheng_temple",
+  "to": "hanxi_night_market",
+  "type": "walk"
+ },
+ {
+  "from": "martial_arts_hall",
+  "to": "taichung_lit_museum",
+  "type": "walk"
+ },
+ {
+  "from": "taichung_lit_museum",
+  "to": "ntcu",
+  "type": "walk"
+ },
+ {
+  "from": "ntcu",
+  "to": "ntmofa",
+  "type": "road"
+ },
+ {
+  "from": "taichung_lit_museum",
+  "to": "fifth_market",
+  "type": "walk"
+ },
+ {
+  "from": "fifth_market",
+  "to": "ntmofa",
+  "type": "walk"
+ },
+ {
+  "from": "shenji",
+  "to": "fantasy_story",
+  "type": "walk"
+ },
+ {
+  "from": "fantasy_story",
+  "to": "xiangshang_market",
+  "type": "walk"
+ },
+ {
+  "from": "xiangshang_market",
+  "to": "jingming_1st",
+  "type": "road"
+ },
+ {
+  "from": "nmns",
+  "to": "sogo_taichung",
+  "type": "walk"
+ },
+ {
+  "from": "sogo_taichung",
+  "to": "cmp_eslite",
+  "type": "walk"
+ },
+ {
+  "from": "yizhong_street",
+  "to": "nutc",
+  "type": "walk"
+ },
+ {
+  "from": "nutc",
+  "to": "taichung_park",
+  "type": "walk"
+ },
+ {
+  "from": "chungyo",
+  "to": "confucius_temple",
+  "type": "walk"
+ },
+ {
+  "from": "confucius_temple",
+  "to": "baojue_temple",
+  "type": "walk"
+ },
+ {
+  "from": "baojue_temple",
+  "to": "cmu",
+  "type": "walk"
+ },
+ {
+  "from": "beitun_depot",
+  "to": "intercontinental_stadium",
+  "type": "road"
+ },
+ {
+  "from": "beitun_depot",
+  "to": "baojue_temple",
+  "type": "road"
+ },
+ {
+  "from": "beitun_depot",
+  "to": "dakeng",
+  "type": "road"
+ },
+ {
+  "from": "beitun_depot",
+  "to": "city_hall",
+  "type": "rail"
+ },
+ {
+  "from": "dakeng",
+  "to": "xinshe_flowers",
+  "type": "road"
+ },
+ {
+  "from": "xinshe_flowers",
+  "to": "fengyuan_station",
+  "type": "road"
+ },
+ {
+  "from": "fengyuan_station",
+  "to": "miaodong",
+  "type": "walk"
+ },
+ {
+  "from": "fengyuan_station",
+  "to": "lihpao",
+  "type": "road"
+ },
+ {
+  "from": "fengyuan_station",
+  "to": "tc_station",
+  "type": "rail"
+ },
+ {
+  "from": "skm_zhonggang",
+  "to": "top_city",
+  "type": "walk"
+ },
+ {
+  "from": "top_city",
+  "to": "city_hall",
+  "type": "walk"
+ },
+ {
+  "from": "fcu",
+  "to": "ctsp",
+  "type": "road"
+ },
+ {
+  "from": "ctsp",
+  "to": "metro_park",
+  "type": "road"
+ },
+ {
+  "from": "luce_chapel",
+  "to": "tunghai_art_street",
+  "type": "walk"
+ },
+ {
+  "from": "tunghai_art_street",
+  "to": "metro_park",
+  "type": "road"
+ },
+ {
+  "from": "nchu",
+  "to": "zhongxiao_night_market",
+  "type": "walk"
+ },
+ {
+  "from": "zhongxiao_night_market",
+  "to": "tc_station",
+  "type": "road"
+ },
+ {
+  "from": "wanhe_temple",
+  "to": "fengle_park",
+  "type": "walk"
+ },
+ {
+  "from": "fengle_park",
+  "to": "wenxin_forest_park",
+  "type": "walk"
+ },
+ {
+  "from": "rainbow_village",
+  "to": "wanggaoliao",
+  "type": "road"
+ },
+ {
+  "from": "wanggaoliao",
+  "to": "luce_chapel",
+  "type": "road"
+ },
+ {
+  "from": "thsr_taichung",
+  "to": "wuri_brewery",
+  "type": "walk"
+ },
+ {
+  "from": "nchu",
+  "to": "wufeng_lin",
+  "type": "road"
+ },
+ {
+  "from": "wufeng_lin",
+  "to": "quake_museum",
+  "type": "road"
+ },
+ {
+  "from": "quake_museum",
+  "to": "asia_univ",
+  "type": "walk"
+ },
+ {
+  "from": "asia_univ",
+  "to": "wufeng_lin",
+  "type": "road"
+ },
+ {
+  "from": "ching_chuan_kang",
+  "to": "ctsp",
+  "type": "road"
+ },
+ {
+  "from": "ching_chuan_kang",
+  "to": "providence_univ",
+  "type": "road"
+ },
+ {
+  "from": "providence_univ",
+  "to": "metro_park",
+  "type": "road"
+ },
+ {
+  "from": "providence_univ",
+  "to": "ziyunyan",
+  "type": "road"
+ },
+ {
+  "from": "ziyunyan",
+  "to": "gaomei",
+  "type": "road"
+ },
+ {
+  "from": "gaomei",
+  "to": "wuqi_harbor",
+  "type": "road"
+ },
+ {
+  "from": "ziyunyan",
+  "to": "jenn_lann_temple",
+  "type": "road"
+ },
+ {
+  "from": "jenn_lann_temple",
+  "to": "lihpao",
+  "type": "road"
+ }
+]

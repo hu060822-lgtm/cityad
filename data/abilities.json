@@ -1,0 +1,267 @@
+[
+ {
+  "id": "shortcut",
+  "name": "熟門熟路",
+  "direction": "explore",
+  "description": "每回合第一次移動到你探索過的地點不花 AP。",
+  "effects": [
+   {
+    "type": "free_move_visited",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "urban_explorer",
+  "name": "都市探勘者",
+  "direction": "explore",
+  "description": "第一次探索地點時，額外 +$40。",
+  "effects": [
+   {
+    "type": "explore_bonus",
+    "resources": {
+     "money": 40
+    }
+   }
+  ]
+ },
+ {
+  "id": "long_legs",
+  "name": "長程移動",
+  "direction": "explore",
+  "description": "任何路線的移動成本最多 2 AP。",
+  "effects": [
+   {
+    "type": "edge_cost_cap",
+    "value": 2
+   }
+  ]
+ },
+ {
+  "id": "collector",
+  "name": "收藏家",
+  "direction": "explore",
+  "description": "終局時每探索 4 個地點 +1 分。",
+  "effects": [
+   {
+    "type": "vp_per_stat",
+    "stat": "explored",
+    "every": 4,
+    "vp": 1
+   }
+  ]
+ },
+ {
+  "id": "business_eye",
+  "name": "商業眼光",
+  "direction": "commerce",
+  "description": "第一次投資某一類地點時，退回 $100。",
+  "effects": [
+   {
+    "type": "first_invest_category_refund",
+    "money": 100
+   }
+  ]
+ },
+ {
+  "id": "thrifty",
+  "name": "精打細算",
+  "direction": "commerce",
+  "description": "投資費用 -15%。",
+  "effects": [
+   {
+    "type": "invest_cost_mult",
+    "value": 0.85
+   }
+  ]
+ },
+ {
+  "id": "hustler",
+  "name": "斜槓打工",
+  "direction": "commerce",
+  "description": "打工收入 +50%。",
+  "effects": [
+   {
+    "type": "work_pay_mult",
+    "value": 1.5
+   }
+  ]
+ },
+ {
+  "id": "landlord",
+  "name": "包租公",
+  "direction": "commerce",
+  "description": "你控制的地點每回合收益 +25%。",
+  "effects": [
+   {
+    "type": "income_mult",
+    "value": 1.25
+   }
+  ]
+ },
+ {
+  "id": "local_network",
+  "name": "地方人脈",
+  "direction": "social",
+  "description": "每完成一次交易，額外 +1 情報。",
+  "effects": [
+   {
+    "type": "trade_bonus",
+    "resources": {
+     "info": 1
+    }
+   }
+  ]
+ },
+ {
+  "id": "broker",
+  "name": "仲介",
+  "direction": "social",
+  "description": "完成委託或你的委託被完成時，額外 +$60。",
+  "effects": [
+   {
+    "type": "contract_bonus",
+    "resources": {
+     "money": 60
+    }
+   }
+  ]
+ },
+ {
+  "id": "smooth_talker",
+  "name": "能言善道",
+  "direction": "social",
+  "description": "發起交易不花 AP，且可跨區交易。",
+  "effects": [
+   {
+    "type": "ap_override",
+    "action": "TRADE_OFFER",
+    "value": 0
+   },
+   {
+    "type": "trade_anywhere",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "informant",
+  "name": "線人",
+  "direction": "intel",
+  "description": "調查額外 +1 情報。",
+  "effects": [
+   {
+    "type": "action_bonus",
+    "action": "INVESTIGATE",
+    "resources": {
+     "info": 1
+    }
+   }
+  ]
+ },
+ {
+  "id": "foresight",
+  "name": "消息靈通",
+  "direction": "intel",
+  "description": "永遠能看到下一回合的城市事件。",
+  "effects": [
+   {
+    "type": "see_next_event",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "info_dealer",
+  "name": "情報販子",
+  "direction": "intel",
+  "description": "可以隨時出售情報，每筆多 +$40。",
+  "effects": [
+   {
+    "type": "can_sell_info",
+    "value": 1
+   },
+   {
+    "type": "sell_info_bonus",
+    "money": 40
+   }
+  ]
+ },
+ {
+  "id": "local_boss",
+  "name": "地頭蛇",
+  "direction": "control",
+  "description": "爭奪時攻擊 +2。",
+  "effects": [
+   {
+    "type": "contest_bonus",
+    "value": 2
+   }
+  ]
+ },
+ {
+  "id": "fortress",
+  "name": "固若金湯",
+  "direction": "control",
+  "description": "你控制的地點防禦 +2。",
+  "effects": [
+   {
+    "type": "defense_bonus",
+    "value": 2
+   }
+  ]
+ },
+ {
+  "id": "builder",
+  "name": "建設者",
+  "direction": "control",
+  "description": "建設費用 -30%。",
+  "effects": [
+   {
+    "type": "build_cost_mult",
+    "value": 0.7
+   }
+  ]
+ },
+ {
+  "id": "transit_tycoon",
+  "name": "交通大亨",
+  "direction": "control",
+  "description": "轉乘只要 1 AP。",
+  "effects": [
+   {
+    "type": "ap_override",
+    "action": "TRANSIT",
+    "value": 1
+   }
+  ]
+ },
+ {
+  "id": "workaholic",
+  "name": "工作狂",
+  "direction": "commerce",
+  "description": "每回合 +1 AP，但每回合支付 $40。",
+  "effects": [
+   {
+    "type": "ap_bonus",
+    "value": 1
+   },
+   {
+    "type": "upkeep_money",
+    "value": 40
+   }
+  ]
+ },
+ {
+  "id": "crisis_manager",
+  "name": "危機處理",
+  "direction": "social",
+  "description": "回應城市危機時算作 2 次貢獻。",
+  "effects": [
+   {
+    "type": "crisis_multiplier",
+    "value": 2
+   }
+  ]
+ }
+]

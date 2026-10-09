@@ -1,0 +1,2082 @@
+[
+ {
+  "id": "tc_station",
+  "name": "臺中車站",
+  "category": "transport",
+  "tier": 1,
+  "lat": 24.1369,
+  "lng": 120.6853,
+  "region": "中區",
+  "district": "old_town",
+  "tags": [
+   "transport",
+   "hub",
+   "historic"
+  ],
+  "investCost": 320,
+  "income": {
+   "money": 50,
+   "info": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 20
+  },
+  "workPay": 70,
+  "defense": 2,
+  "blurb": "新舊站房並立，城市的起點與交通主軸。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "miyahara",
+  "name": "宮原眼科",
+  "category": "food",
+  "tier": 2,
+  "lat": 24.138,
+  "lng": 120.6836,
+  "region": "中區",
+  "district": "old_town",
+  "tags": [
+   "food",
+   "tourism",
+   "historic"
+  ],
+  "investCost": 240,
+  "income": {
+   "money": 45
+  },
+  "explore": {
+   "money": 30
+  },
+  "workPay": 80,
+  "defense": 1,
+  "blurb": "日治時期眼科建築改建的甜點名店，觀光客必排。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "taichung_prefecture",
+  "name": "臺中州廳",
+  "category": "culture",
+  "tier": 1,
+  "lat": 24.1402,
+  "lng": 120.6791,
+  "region": "西區",
+  "district": "old_town",
+  "tags": [
+   "culture",
+   "government",
+   "historic"
+  ],
+  "investCost": 280,
+  "income": {
+   "influence": 1,
+   "money": 20
+  },
+  "explore": {
+   "info": 1,
+   "money": 20
+  },
+  "workPay": 0,
+  "defense": 3,
+  "blurb": "巴洛克風格的州廳建築，舊城的行政記憶。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "second_market",
+  "name": "第二市場",
+  "category": "food",
+  "tier": 2,
+  "lat": 24.1417,
+  "lng": 120.6788,
+  "region": "中區",
+  "district": "old_town",
+  "tags": [
+   "food",
+   "market",
+   "historic"
+  ],
+  "investCost": 200,
+  "income": {
+   "money": 40
+  },
+  "explore": {
+   "money": 20
+  },
+  "workPay": 75,
+  "defense": 1,
+  "blurb": "六角樓下的百年市場，早午餐與古早味集散地。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "lvchuan",
+  "name": "綠川水岸",
+  "category": "nature",
+  "tier": 2,
+  "lat": 24.1395,
+  "lng": 120.6845,
+  "region": "中區",
+  "district": "old_town",
+  "tags": [
+   "nature",
+   "historic",
+   "walk"
+  ],
+  "investCost": 180,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "整治後的河岸步道，舊城再生的象徵。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "taichung_park",
+  "name": "臺中公園",
+  "category": "nature",
+  "tier": 1,
+  "lat": 24.1446,
+  "lng": 120.6847,
+  "region": "北區",
+  "district": "old_town",
+  "tags": [
+   "nature",
+   "historic",
+   "tourism"
+  ],
+  "investCost": 220,
+  "income": {
+   "influence": 1,
+   "money": 15
+  },
+  "explore": {
+   "info": 1,
+   "money": 20
+  },
+  "workPay": 0,
+  "defense": 2,
+  "blurb": "湖心亭倒映日月湖，城市百年的綠色客廳。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "cultural_park",
+  "name": "臺中文化創意產業園區",
+  "category": "culture",
+  "tier": 2,
+  "lat": 24.1335,
+  "lng": 120.6812,
+  "region": "南區",
+  "district": "south",
+  "tags": [
+   "culture",
+   "creative",
+   "historic"
+  ],
+  "investCost": 220,
+  "income": {
+   "influence": 1,
+   "money": 20
+  },
+  "explore": {
+   "money": 30
+  },
+  "workPay": 60,
+  "defense": 1,
+  "blurb": "舊酒廠廠房變身展演空間。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "lecheng_temple",
+  "name": "樂成宮",
+  "category": "religion",
+  "tier": 2,
+  "lat": 24.1378,
+  "lng": 120.7005,
+  "region": "東區",
+  "district": "old_town",
+  "tags": [
+   "religion",
+   "historic"
+  ],
+  "investCost": 200,
+  "income": {
+   "influence": 1,
+   "money": 20
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 2,
+  "blurb": "旱溪媽祖廟，東區信仰與遶境的中心。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "ntmofa",
+  "name": "國立臺灣美術館",
+  "category": "culture",
+  "tier": 1,
+  "lat": 24.1413,
+  "lng": 120.6632,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "culture",
+   "art",
+   "tourism"
+  ],
+  "investCost": 280,
+  "income": {
+   "influence": 2
+  },
+  "explore": {
+   "money": 40
+  },
+  "workPay": 0,
+  "defense": 2,
+  "blurb": "大型公立美術館，戶外雕塑公園連接綠園道。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "shenji",
+  "name": "審計新村",
+  "category": "shopping",
+  "tier": 2,
+  "lat": 24.145,
+  "lng": 120.663,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "shopping",
+   "creative",
+   "cafe"
+  ],
+  "investCost": 200,
+  "income": {
+   "money": 35,
+   "influence": 1
+  },
+  "explore": {
+   "money": 30
+  },
+  "workPay": 65,
+  "defense": 1,
+  "blurb": "舊宿舍群改造的文創聚落與週末市集。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "cmp_eslite",
+  "name": "勤美誠品綠園道",
+  "category": "shopping",
+  "tier": 1,
+  "lat": 24.1515,
+  "lng": 120.6635,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "shopping",
+   "books",
+   "cafe"
+  ],
+  "investCost": 300,
+  "income": {
+   "money": 55
+  },
+  "explore": {
+   "money": 20,
+   "info": 1
+  },
+  "workPay": 85,
+  "defense": 2,
+  "blurb": "綠色立面的複合商場，書店與綠園道相連。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "calligraphy_greenway",
+  "name": "草悟道",
+  "category": "nature",
+  "tier": 2,
+  "lat": 24.1498,
+  "lng": 120.664,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "nature",
+   "walk"
+  ],
+  "investCost": 160,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "串起科博館到美術館的帶狀綠地。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "nmns",
+  "name": "國立自然科學博物館",
+  "category": "culture",
+  "tier": 1,
+  "lat": 24.1573,
+  "lng": 120.6661,
+  "region": "北區",
+  "district": "culture_corridor",
+  "tags": [
+   "culture",
+   "education",
+   "tourism"
+  ],
+  "investCost": 300,
+  "income": {
+   "info": 1,
+   "influence": 1
+  },
+  "explore": {
+   "info": 2
+  },
+  "workPay": 0,
+  "defense": 2,
+  "blurb": "科博館，植物園溫室與恐龍廳是城市地標。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "martial_arts_hall",
+  "name": "臺中刑務所演武場",
+  "category": "culture",
+  "tier": 3,
+  "lat": 24.1418,
+  "lng": 120.6716,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "culture",
+   "historic"
+  ],
+  "investCost": 150,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "日式木造武德殿，老樹與道館的安靜角落。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "jingming_1st",
+  "name": "精明一街",
+  "category": "food",
+  "tier": 3,
+  "lat": 24.1542,
+  "lng": 120.6526,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "food",
+   "cafe",
+   "walk"
+  ],
+  "investCost": 170,
+  "income": {
+   "money": 30
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 60,
+  "defense": 1,
+  "blurb": "徒步街區的露天咖啡座。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "yizhong_street",
+  "name": "一中街商圈",
+  "category": "food",
+  "tier": 1,
+  "lat": 24.1499,
+  "lng": 120.6857,
+  "region": "北區",
+  "district": "north",
+  "tags": [
+   "food",
+   "shopping",
+   "youth"
+  ],
+  "investCost": 240,
+  "income": {
+   "money": 50
+  },
+  "explore": {
+   "money": 40
+  },
+  "workPay": 85,
+  "defense": 1,
+  "blurb": "學生聚集的小吃與服飾商圈。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "chungyo",
+  "name": "中友百貨",
+  "category": "shopping",
+  "tier": 2,
+  "lat": 24.1519,
+  "lng": 120.6856,
+  "region": "北區",
+  "district": "north",
+  "tags": [
+   "shopping"
+  ],
+  "investCost": 260,
+  "income": {
+   "money": 50
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 75,
+  "defense": 2,
+  "blurb": "北區老牌百貨，三棟相連。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "cmu",
+  "name": "中國醫藥大學",
+  "category": "education",
+  "tier": 2,
+  "lat": 24.1567,
+  "lng": 120.6817,
+  "region": "北區",
+  "district": "north",
+  "tags": [
+   "education",
+   "health",
+   "research"
+  ],
+  "investCost": 260,
+  "income": {
+   "info": 1,
+   "money": 15
+  },
+  "explore": {
+   "info": 2
+  },
+  "workPay": 0,
+  "defense": 2,
+  "blurb": "醫藥學府與附設醫院，研究資源集中。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "intercontinental_stadium",
+  "name": "臺中洲際棒球場",
+  "category": "entertainment",
+  "tier": 2,
+  "lat": 24.1998,
+  "lng": 120.6851,
+  "region": "北屯區",
+  "district": "north",
+  "tags": [
+   "entertainment",
+   "sport"
+  ],
+  "investCost": 240,
+  "income": {
+   "money": 40,
+   "influence": 1
+  },
+  "explore": {
+   "money": 30
+  },
+  "workPay": 80,
+  "defense": 2,
+  "blurb": "職棒主場，比賽日整個北屯都在沸騰。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "national_theater",
+  "name": "臺中國家歌劇院",
+  "category": "culture",
+  "tier": 1,
+  "lat": 24.1627,
+  "lng": 120.6405,
+  "region": "西屯區",
+  "district": "civic",
+  "tags": [
+   "culture",
+   "art",
+   "tourism"
+  ],
+  "investCost": 320,
+  "income": {
+   "influence": 2,
+   "money": 20
+  },
+  "explore": {
+   "money": 40
+  },
+  "workPay": 0,
+  "defense": 3,
+  "blurb": "曲牆洞穴般的建築，城市的文化名片。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "maple_garden",
+  "name": "秋紅谷景觀生態公園",
+  "category": "nature",
+  "tier": 2,
+  "lat": 24.1673,
+  "lng": 120.6398,
+  "region": "西屯區",
+  "district": "civic",
+  "tags": [
+   "nature",
+   "walk"
+  ],
+  "investCost": 180,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "下凹式生態公園，高樓間的湖光。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "skm_zhonggang",
+  "name": "新光三越臺中中港店",
+  "category": "shopping",
+  "tier": 1,
+  "lat": 24.1648,
+  "lng": 120.6442,
+  "region": "西屯區",
+  "district": "civic",
+  "tags": [
+   "shopping"
+  ],
+  "investCost": 340,
+  "income": {
+   "money": 65
+  },
+  "explore": {
+   "money": 30
+  },
+  "workPay": 90,
+  "defense": 2,
+  "blurb": "七期商圈核心，週末人潮滿溢。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "city_hall",
+  "name": "臺中市政府",
+  "category": "government",
+  "tier": 1,
+  "lat": 24.1617,
+  "lng": 120.6468,
+  "region": "西屯區",
+  "district": "civic",
+  "tags": [
+   "government"
+  ],
+  "investCost": 300,
+  "income": {
+   "influence": 2,
+   "info": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 20
+  },
+  "workPay": 0,
+  "defense": 3,
+  "blurb": "臺灣大道市政大樓，政策與消息的源頭。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "chaoma_terminal",
+  "name": "朝馬轉運站",
+  "category": "transport",
+  "tier": 2,
+  "lat": 24.1706,
+  "lng": 120.6327,
+  "region": "西屯區",
+  "district": "civic",
+  "tags": [
+   "transport",
+   "hub"
+  ],
+  "investCost": 240,
+  "income": {
+   "money": 35,
+   "info": 1
+  },
+  "explore": {
+   "info": 1
+  },
+  "workPay": 60,
+  "defense": 1,
+  "blurb": "國道客運轉乘點，往返各地的中繼站。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "fengjia_market",
+  "name": "逢甲夜市",
+  "category": "food",
+  "tier": 1,
+  "lat": 24.1748,
+  "lng": 120.6458,
+  "region": "西屯區",
+  "district": "fengjia",
+  "tags": [
+   "food",
+   "tourism",
+   "youth"
+  ],
+  "investCost": 280,
+  "income": {
+   "money": 60
+  },
+  "explore": {
+   "money": 50
+  },
+  "workPay": 95,
+  "defense": 1,
+  "blurb": "全台知名夜市，新口味的發源地。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "fcu",
+  "name": "逢甲大學",
+  "category": "education",
+  "tier": 1,
+  "lat": 24.1791,
+  "lng": 120.6467,
+  "region": "西屯區",
+  "district": "fengjia",
+  "tags": [
+   "education",
+   "research",
+   "youth"
+  ],
+  "investCost": 260,
+  "income": {
+   "info": 1,
+   "money": 20
+  },
+  "explore": {
+   "info": 2
+  },
+  "workPay": 0,
+  "defense": 2,
+  "blurb": "夜市旁的大學，工程與商管人才聚集。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "central_park",
+  "name": "臺中中央公園",
+  "category": "nature",
+  "tier": 2,
+  "lat": 24.1805,
+  "lng": 120.6508,
+  "region": "西屯區",
+  "district": "fengjia",
+  "tags": [
+   "nature",
+   "walk"
+  ],
+  "investCost": 180,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "舊水湳機場改建的大型公園。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "luce_chapel",
+  "name": "東海大學路思義教堂",
+  "category": "education",
+  "tier": 2,
+  "lat": 24.1797,
+  "lng": 120.6004,
+  "region": "西屯區",
+  "district": "fengjia",
+  "tags": [
+   "education",
+   "culture",
+   "historic"
+  ],
+  "investCost": 240,
+  "income": {
+   "info": 1,
+   "influence": 1
+  },
+  "explore": {
+   "money": 30
+  },
+  "workPay": 0,
+  "defense": 2,
+  "blurb": "大度山上的雙曲面教堂，東海校園的象徵。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "wanhe_temple",
+  "name": "萬和宮",
+  "category": "religion",
+  "tier": 2,
+  "lat": 24.1377,
+  "lng": 120.6452,
+  "region": "南屯區",
+  "district": "south",
+  "tags": [
+   "religion",
+   "historic"
+  ],
+  "investCost": 200,
+  "income": {
+   "influence": 1,
+   "money": 20
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 2,
+  "blurb": "南屯老街旁的媽祖廟，端午木屐踢街的起點。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "wenxin_forest_park",
+  "name": "文心森林公園",
+  "category": "nature",
+  "tier": 3,
+  "lat": 24.137,
+  "lng": 120.649,
+  "region": "南屯區",
+  "district": "south",
+  "tags": [
+   "nature",
+   "entertainment"
+  ],
+  "investCost": 160,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "有露天舞台的森林公園，演唱會的舉辦地。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "rainbow_village",
+  "name": "彩虹眷村",
+  "category": "tourism",
+  "tier": 3,
+  "lat": 24.1339,
+  "lng": 120.6098,
+  "region": "南屯區",
+  "district": "south",
+  "tags": [
+   "tourism",
+   "creative"
+  ],
+  "investCost": 160,
+  "income": {
+   "money": 25,
+   "influence": 1
+  },
+  "explore": {
+   "money": 30
+  },
+  "workPay": 50,
+  "defense": 1,
+  "blurb": "彩繪滿牆的眷村聚落。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "thsr_taichung",
+  "name": "臺中高鐵站",
+  "category": "transport",
+  "tier": 1,
+  "lat": 24.1121,
+  "lng": 120.6156,
+  "region": "烏日區",
+  "district": "south",
+  "tags": [
+   "transport",
+   "hub"
+  ],
+  "investCost": 320,
+  "income": {
+   "money": 50,
+   "info": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 20
+  },
+  "workPay": 70,
+  "defense": 2,
+  "blurb": "高鐵、台鐵、捷運三鐵共構的門戶。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "nchu",
+  "name": "國立中興大學",
+  "category": "education",
+  "tier": 1,
+  "lat": 24.1225,
+  "lng": 120.6752,
+  "region": "南區",
+  "district": "south",
+  "tags": [
+   "education",
+   "research",
+   "nature"
+  ],
+  "investCost": 280,
+  "income": {
+   "info": 1,
+   "influence": 1
+  },
+  "explore": {
+   "info": 2
+  },
+  "workPay": 0,
+  "defense": 2,
+  "blurb": "南區的綜合大學，農業與獸醫研究重鎮。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "nlpi",
+  "name": "國立公共資訊圖書館",
+  "category": "culture",
+  "tier": 3,
+  "lat": 24.1301,
+  "lng": 120.672,
+  "region": "南區",
+  "district": "south",
+  "tags": [
+   "culture",
+   "books",
+   "education"
+  ],
+  "investCost": 160,
+  "income": {
+   "info": 1
+  },
+  "explore": {
+   "info": 2
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "國資圖，城市的公共書房。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "fourth_credit",
+  "name": "第四信用合作社",
+  "category": "food",
+  "tier": 3,
+  "lat": 24.1384,
+  "lng": 120.6822,
+  "region": "中區",
+  "district": "old_town",
+  "tags": [
+   "food",
+   "historic",
+   "tourism"
+  ],
+  "investCost": 160,
+  "income": {
+   "money": 30
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 60,
+  "defense": 1,
+  "blurb": "舊銀行建築改成的甜點店，金庫還在。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "taichung_city_office",
+  "name": "臺中市役所",
+  "category": "culture",
+  "tier": 3,
+  "lat": 24.1408,
+  "lng": 120.6783,
+  "region": "西區",
+  "district": "old_town",
+  "tags": [
+   "culture",
+   "historic",
+   "cafe"
+  ],
+  "investCost": 160,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "州廳對面的巴洛克小樓，日治時期的市政廳。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "liuchuan",
+  "name": "柳川水岸步道",
+  "category": "nature",
+  "tier": 3,
+  "lat": 24.1425,
+  "lng": 120.676,
+  "region": "中區",
+  "district": "old_town",
+  "tags": [
+   "nature",
+   "walk"
+  ],
+  "investCost": 160,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "整治後的柳川，夜裡有燈。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "zhonghua_night_market",
+  "name": "中華路夜市",
+  "category": "food",
+  "tier": 2,
+  "lat": 24.145,
+  "lng": 120.6795,
+  "region": "中區",
+  "district": "old_town",
+  "tags": [
+   "food",
+   "market",
+   "historic"
+  ],
+  "investCost": 220,
+  "income": {
+   "money": 40
+  },
+  "explore": {
+   "money": 20
+  },
+  "workPay": 70,
+  "defense": 1,
+  "blurb": "老台中人的宵夜街。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "warehouse_20",
+  "name": "20號倉庫",
+  "category": "culture",
+  "tier": 3,
+  "lat": 24.1363,
+  "lng": 120.688,
+  "region": "東區",
+  "district": "old_town",
+  "tags": [
+   "culture",
+   "creative",
+   "art"
+  ],
+  "investCost": 160,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "鐵道旁的舊倉庫，現在是藝術家駐村空間。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "imperial_sugar",
+  "name": "帝國製糖廠臺中營業所",
+  "category": "culture",
+  "tier": 3,
+  "lat": 24.1365,
+  "lng": 120.6925,
+  "region": "東區",
+  "district": "old_town",
+  "tags": [
+   "culture",
+   "historic"
+  ],
+  "investCost": 160,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "車站後站的紅磚糖廠辦公室。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "hanxi_night_market",
+  "name": "旱溪夜市",
+  "category": "food",
+  "tier": 2,
+  "lat": 24.1395,
+  "lng": 120.7035,
+  "region": "東區",
+  "district": "old_town",
+  "tags": [
+   "food",
+   "market"
+  ],
+  "investCost": 220,
+  "income": {
+   "money": 40
+  },
+  "explore": {
+   "money": 20
+  },
+  "workPay": 70,
+  "defense": 1,
+  "blurb": "樂成宮旁的大型夜市。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "jianguo_market",
+  "name": "建國市場",
+  "category": "food",
+  "tier": 3,
+  "lat": 24.133,
+  "lng": 120.6955,
+  "region": "東區",
+  "district": "old_town",
+  "tags": [
+   "food",
+   "market"
+  ],
+  "investCost": 160,
+  "income": {
+   "money": 30
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 65,
+  "defense": 1,
+  "blurb": "台中規模最大的傳統市場之一。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "taichung_lit_museum",
+  "name": "臺中文學館",
+  "category": "culture",
+  "tier": 3,
+  "lat": 24.1412,
+  "lng": 120.6705,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "culture",
+   "books",
+   "historic"
+  ],
+  "investCost": 160,
+  "income": {
+   "info": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "日式警察宿舍群改建的文學館，老榕樹下很安靜。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "xiangshang_market",
+  "name": "向上市場",
+  "category": "food",
+  "tier": 3,
+  "lat": 24.1465,
+  "lng": 120.658,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "food",
+   "market"
+  ],
+  "investCost": 160,
+  "income": {
+   "money": 30
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 60,
+  "defense": 1,
+  "blurb": "美術館生活圈的市場與小吃。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "fantasy_story",
+  "name": "范特喜綠光計畫",
+  "category": "shopping",
+  "tier": 3,
+  "lat": 24.1478,
+  "lng": 120.6602,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "shopping",
+   "creative",
+   "cafe"
+  ],
+  "investCost": 160,
+  "income": {
+   "money": 30
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 55,
+  "defense": 1,
+  "blurb": "老宿舍巷弄裡的小店聚落。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "fifth_market",
+  "name": "第五市場",
+  "category": "food",
+  "tier": 3,
+  "lat": 24.1385,
+  "lng": 120.6665,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "food",
+   "market"
+  ],
+  "investCost": 160,
+  "income": {
+   "money": 30
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 60,
+  "defense": 1,
+  "blurb": "阿嬤級的市場小吃與老攤。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "ntcu",
+  "name": "國立臺中教育大學",
+  "category": "education",
+  "tier": 2,
+  "lat": 24.144,
+  "lng": 120.673,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "education",
+   "historic"
+  ],
+  "investCost": 220,
+  "income": {
+   "info": 1
+  },
+  "explore": {
+   "info": 2
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "百年師範學校，紅樓仍在。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "sogo_taichung",
+  "name": "廣三SOGO",
+  "category": "shopping",
+  "tier": 2,
+  "lat": 24.156,
+  "lng": 120.664,
+  "region": "西區",
+  "district": "culture_corridor",
+  "tags": [
+   "shopping"
+  ],
+  "investCost": 220,
+  "income": {
+   "money": 45
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 75,
+  "defense": 1,
+  "blurb": "台灣大道上的老牌百貨。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "confucius_temple",
+  "name": "臺中孔廟",
+  "category": "religion",
+  "tier": 2,
+  "lat": 24.154,
+  "lng": 120.6885,
+  "region": "北區",
+  "district": "north",
+  "tags": [
+   "religion",
+   "culture",
+   "historic"
+  ],
+  "investCost": 220,
+  "income": {
+   "influence": 1,
+   "money": 15
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "宋式建築的孔廟，考季香火特別旺。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "baojue_temple",
+  "name": "寶覺寺",
+  "category": "religion",
+  "tier": 3,
+  "lat": 24.1573,
+  "lng": 120.6866,
+  "region": "北區",
+  "district": "north",
+  "tags": [
+   "religion",
+   "historic"
+  ],
+  "investCost": 160,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "金色彌勒大佛笑看健行路。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "nutc",
+  "name": "國立臺中科技大學",
+  "category": "education",
+  "tier": 3,
+  "lat": 24.1497,
+  "lng": 120.6835,
+  "region": "北區",
+  "district": "north",
+  "tags": [
+   "education",
+   "youth"
+  ],
+  "investCost": 160,
+  "income": {
+   "info": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "一中商圈旁的科大，學生來來去去。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "beitun_depot",
+  "name": "捷運北屯總站",
+  "category": "transport",
+  "tier": 2,
+  "lat": 24.1695,
+  "lng": 120.7095,
+  "region": "北屯區",
+  "district": "north",
+  "tags": [
+   "transport",
+   "hub"
+  ],
+  "investCost": 220,
+  "income": {
+   "money": 30,
+   "info": 1
+  },
+  "explore": {
+   "info": 1
+  },
+  "workPay": 55,
+  "defense": 1,
+  "blurb": "綠線起點，也是往山線的門戶。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "dakeng",
+  "name": "大坑風景區",
+  "category": "nature",
+  "tier": 2,
+  "lat": 24.178,
+  "lng": 120.738,
+  "region": "北屯區",
+  "district": "north",
+  "tags": [
+   "nature",
+   "walk",
+   "tourism"
+  ],
+  "investCost": 220,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "城市邊緣的登山步道與溫泉。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "fengyuan_station",
+  "name": "豐原車站",
+  "category": "transport",
+  "tier": 2,
+  "lat": 24.254,
+  "lng": 120.7232,
+  "region": "豐原區",
+  "district": "mountain_line",
+  "tags": [
+   "transport",
+   "hub"
+  ],
+  "investCost": 220,
+  "income": {
+   "money": 35,
+   "info": 1
+  },
+  "explore": {
+   "info": 1
+  },
+  "workPay": 60,
+  "defense": 1,
+  "blurb": "山線大站，往北往東都從這裡轉。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "miaodong",
+  "name": "豐原廟東夜市",
+  "category": "food",
+  "tier": 2,
+  "lat": 24.2528,
+  "lng": 120.721,
+  "region": "豐原區",
+  "district": "mountain_line",
+  "tags": [
+   "food",
+   "market",
+   "historic"
+  ],
+  "investCost": 220,
+  "income": {
+   "money": 45
+  },
+  "explore": {
+   "money": 30
+  },
+  "workPay": 75,
+  "defense": 1,
+  "blurb": "慈濟宮前的小吃街，排骨酥與清水排骨麵。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "lihpao",
+  "name": "麗寶樂園",
+  "category": "entertainment",
+  "tier": 1,
+  "lat": 24.3225,
+  "lng": 120.6985,
+  "region": "后里區",
+  "district": "mountain_line",
+  "tags": [
+   "entertainment",
+   "tourism",
+   "youth"
+  ],
+  "investCost": 320,
+  "income": {
+   "money": 55
+  },
+  "explore": {
+   "money": 40
+  },
+  "workPay": 90,
+  "defense": 2,
+  "blurb": "摩天輪看得見整片后里。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "xinshe_flowers",
+  "name": "新社花海",
+  "category": "nature",
+  "tier": 3,
+  "lat": 24.22,
+  "lng": 120.81,
+  "region": "新社區",
+  "district": "mountain_line",
+  "tags": [
+   "nature",
+   "tourism"
+  ],
+  "investCost": 160,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "秋冬的花田，週末塞滿遊客。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "top_city",
+  "name": "大遠百",
+  "category": "shopping",
+  "tier": 2,
+  "lat": 24.1653,
+  "lng": 120.643,
+  "region": "西屯區",
+  "district": "civic",
+  "tags": [
+   "shopping",
+   "entertainment"
+  ],
+  "investCost": 220,
+  "income": {
+   "money": 45
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 80,
+  "defense": 1,
+  "blurb": "七期的大型百貨與影城。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "ctsp",
+  "name": "中部科學園區",
+  "category": "education",
+  "tier": 2,
+  "lat": 24.208,
+  "lng": 120.617,
+  "region": "西屯區",
+  "district": "fengjia",
+  "tags": [
+   "research",
+   "education"
+  ],
+  "investCost": 260,
+  "income": {
+   "info": 1,
+   "money": 20
+  },
+  "explore": {
+   "info": 2
+  },
+  "workPay": 0,
+  "defense": 2,
+  "blurb": "晶圓廠與研究機構的聚落。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "metro_park",
+  "name": "臺中都會公園",
+  "category": "nature",
+  "tier": 2,
+  "lat": 24.204,
+  "lng": 120.5975,
+  "region": "西屯區",
+  "district": "fengjia",
+  "tags": [
+   "nature",
+   "walk"
+  ],
+  "investCost": 220,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "大肚山上的大片綠地，看得到夜景。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "tunghai_art_street",
+  "name": "東海藝術街",
+  "category": "shopping",
+  "tier": 3,
+  "lat": 24.1835,
+  "lng": 120.5965,
+  "region": "龍井區",
+  "district": "fengjia",
+  "tags": [
+   "shopping",
+   "cafe",
+   "creative",
+   "youth"
+  ],
+  "investCost": 160,
+  "income": {
+   "money": 30
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 55,
+  "defense": 1,
+  "blurb": "東海別墅旁的小店與咖啡館。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "zhongxiao_night_market",
+  "name": "忠孝路夜市",
+  "category": "food",
+  "tier": 3,
+  "lat": 24.131,
+  "lng": 120.688,
+  "region": "南區",
+  "district": "south",
+  "tags": [
+   "food",
+   "market"
+  ],
+  "investCost": 160,
+  "income": {
+   "money": 30
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 65,
+  "defense": 1,
+  "blurb": "興大生的宵夜補給線。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "fengle_park",
+  "name": "豐樂雕塑公園",
+  "category": "nature",
+  "tier": 3,
+  "lat": 24.133,
+  "lng": 120.644,
+  "region": "南屯區",
+  "district": "south",
+  "tags": [
+   "nature",
+   "art"
+  ],
+  "investCost": 160,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "草地上散落著雕塑作品。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "wanggaoliao",
+  "name": "望高寮夜景公園",
+  "category": "nature",
+  "tier": 3,
+  "lat": 24.134,
+  "lng": 120.593,
+  "region": "南屯區",
+  "district": "south",
+  "tags": [
+   "nature",
+   "tourism"
+  ],
+  "investCost": 160,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "大肚山稜線上的夜景點。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "wufeng_lin",
+  "name": "霧峰林家宮保第園區",
+  "category": "culture",
+  "tier": 2,
+  "lat": 24.064,
+  "lng": 120.699,
+  "region": "霧峰區",
+  "district": "south",
+  "tags": [
+   "culture",
+   "historic",
+   "tourism"
+  ],
+  "investCost": 220,
+  "income": {
+   "influence": 1,
+   "money": 15
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "台灣五大家族之一的宅第群。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "quake_museum",
+  "name": "921地震教育園區",
+  "category": "education",
+  "tier": 2,
+  "lat": 24.047,
+  "lng": 120.692,
+  "region": "霧峰區",
+  "district": "south",
+  "tags": [
+   "education",
+   "culture",
+   "historic"
+  ],
+  "investCost": 220,
+  "income": {
+   "info": 1
+  },
+  "explore": {
+   "info": 2
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "保留震毀校舍的地震博物館。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "asia_univ",
+  "name": "亞洲大學",
+  "category": "education",
+  "tier": 2,
+  "lat": 24.0463,
+  "lng": 120.6858,
+  "region": "霧峰區",
+  "district": "south",
+  "tags": [
+   "education",
+   "research",
+   "art"
+  ],
+  "investCost": 220,
+  "income": {
+   "info": 1,
+   "money": 15
+  },
+  "explore": {
+   "info": 2
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "校園裡有安藤忠雄設計的美術館。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "wuri_brewery",
+  "name": "烏日啤酒廠",
+  "category": "food",
+  "tier": 3,
+  "lat": 24.106,
+  "lng": 120.623,
+  "region": "烏日區",
+  "district": "south",
+  "tags": [
+   "food",
+   "tourism"
+  ],
+  "investCost": 160,
+  "income": {
+   "money": 35
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 60,
+  "defense": 1,
+  "blurb": "高鐵站旁的啤酒廠，可以喝到最新鮮的生啤。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "gaomei",
+  "name": "高美濕地",
+  "category": "nature",
+  "tier": 1,
+  "lat": 24.3118,
+  "lng": 120.5497,
+  "region": "清水區",
+  "district": "coast",
+  "tags": [
+   "nature",
+   "tourism",
+   "walk"
+  ],
+  "investCost": 280,
+  "income": {
+   "influence": 1,
+   "money": 20
+  },
+  "explore": {
+   "info": 1,
+   "money": 20
+  },
+  "workPay": 0,
+  "defense": 2,
+  "blurb": "夕陽、風車與木棧道。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "wuqi_harbor",
+  "name": "梧棲漁港",
+  "category": "food",
+  "tier": 2,
+  "lat": 24.2885,
+  "lng": 120.519,
+  "region": "梧棲區",
+  "district": "coast",
+  "tags": [
+   "food",
+   "market",
+   "tourism"
+  ],
+  "investCost": 220,
+  "income": {
+   "money": 45
+  },
+  "explore": {
+   "money": 20
+  },
+  "workPay": 75,
+  "defense": 1,
+  "blurb": "漁獲直售中心與海鮮街。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "ziyunyan",
+  "name": "清水紫雲巖",
+  "category": "religion",
+  "tier": 3,
+  "lat": 24.268,
+  "lng": 120.58,
+  "region": "清水區",
+  "district": "coast",
+  "tags": [
+   "religion",
+   "historic"
+  ],
+  "investCost": 160,
+  "income": {
+   "influence": 1
+  },
+  "explore": {
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "海線的觀音信仰中心。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "providence_univ",
+  "name": "靜宜大學",
+  "category": "education",
+  "tier": 3,
+  "lat": 24.2265,
+  "lng": 120.579,
+  "region": "沙鹿區",
+  "district": "coast",
+  "tags": [
+   "education",
+   "youth"
+  ],
+  "investCost": 160,
+  "income": {
+   "info": 1
+  },
+  "explore": {
+   "info": 1,
+   "money": 10
+  },
+  "workPay": 0,
+  "defense": 1,
+  "blurb": "大肚山西坡的大學城。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "jenn_lann_temple",
+  "name": "大甲鎮瀾宮",
+  "category": "religion",
+  "tier": 1,
+  "lat": 24.3466,
+  "lng": 120.6232,
+  "region": "大甲區",
+  "district": "coast",
+  "tags": [
+   "religion",
+   "historic",
+   "tourism"
+  ],
+  "investCost": 300,
+  "income": {
+   "influence": 1,
+   "money": 20
+  },
+  "explore": {
+   "info": 1,
+   "money": 20
+  },
+  "workPay": 0,
+  "defense": 3,
+  "blurb": "每年媽祖遶境從這裡起駕。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ },
+ {
+  "id": "ching_chuan_kang",
+  "name": "臺中國際機場",
+  "category": "transport",
+  "tier": 2,
+  "lat": 24.2645,
+  "lng": 120.621,
+  "region": "沙鹿區",
+  "district": "coast",
+  "tags": [
+   "transport",
+   "hub"
+  ],
+  "investCost": 220,
+  "income": {
+   "money": 40,
+   "info": 1
+  },
+  "explore": {
+   "info": 1
+  },
+  "workPay": 65,
+  "defense": 1,
+  "blurb": "清泉崗的軍民合用機場。",
+  "source": "claude_recall",
+  "verified": false,
+  "last_verified": null
+ }
+]

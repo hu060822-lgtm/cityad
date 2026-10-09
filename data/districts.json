@@ -1,0 +1,88 @@
+[
+ {
+  "id": "old_town",
+  "name": "舊城・車站",
+  "theme": "commerce",
+  "color": "#E9A99B",
+  "description": "車站、市場與河岸，城市最老的心臟。",
+  "dominanceBonus": {
+   "money": 40,
+   "influence": 1
+  }
+ },
+ {
+  "id": "culture_corridor",
+  "name": "草悟道文化帶",
+  "theme": "culture",
+  "color": "#A9D18E",
+  "description": "美術館到科博館的綠色廊道。",
+  "dominanceBonus": {
+   "influence": 2
+  }
+ },
+ {
+  "id": "north",
+  "name": "一中・北屯",
+  "theme": "youth",
+  "color": "#F2D16B",
+  "description": "學生、商圈與球場的熱鬧北側。",
+  "dominanceBonus": {
+   "money": 30,
+   "info": 1
+  }
+ },
+ {
+  "id": "civic",
+  "name": "七期市政",
+  "theme": "commerce",
+  "color": "#E58FB0",
+  "description": "市政中心與百貨、歌劇院的新都心。",
+  "dominanceBonus": {
+   "money": 50
+  }
+ },
+ {
+  "id": "fengjia",
+  "name": "逢甲・大度山",
+  "theme": "youth",
+  "color": "#B7A4DB",
+  "description": "夜市、大學與山上的校園。",
+  "dominanceBonus": {
+   "info": 1,
+   "influence": 1
+  }
+ },
+ {
+  "id": "south",
+  "name": "南區・南屯・烏日",
+  "theme": "exploration",
+  "color": "#8FC3D9",
+  "description": "老街、眷村與高鐵門戶，城市的外緣。",
+  "dominanceBonus": {
+   "info": 1,
+   "money": 30
+  }
+ },
+ {
+  "id": "coast",
+  "name": "海線・大甲",
+  "theme": "exploration",
+  "color": "#9FD3C7",
+  "description": "濕地、漁港、機場與媽祖的西側海岸。",
+  "dominanceBonus": {
+   "info": 1,
+   "influence": 1
+  }
+ },
+ {
+  "id": "mountain_line",
+  "name": "山線・豐原",
+  "theme": "youth",
+  "color": "#D4B483",
+  "description": "豐原老街、花海與樂園，城市北邊的山線。",
+  "dominanceBonus": {
+   "money": 40,
+   "info": 1
+  }
+ }
+]

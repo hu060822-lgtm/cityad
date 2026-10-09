@@ -1,0 +1,22 @@
+[
+  {"id":"explore_10","name":"城市漫遊","description":"探索 12 個地點。","vp":3,"conditions":[{"kind":"stat","key":"explored","op":">=","value":12}]},
+  {"id":"explore_districts","name":"跨區踏查","description":"在 6 個不同地區各探索至少 1 個地點。","vp":4,"conditions":[{"kind":"districts_explored","op":">=","value":6}]},
+  {"id":"discovery_3","name":"巷弄發現","description":"探索 4 個小眾地點（第三級）。","vp":3,"conditions":[{"kind":"tier_explored","key":"3","op":">=","value":4}]},
+  {"id":"control_commerce","name":"商圈經營者","description":"終局控制 2 個購物或餐飲地點。","vp":5,"conditions":[{"kind":"control_tag","key":"shopping|food","op":">=","value":2}]},
+  {"id":"control_culture","name":"文化守護者","description":"終局控制 2 個文化地點。","vp":5,"conditions":[{"kind":"control_tag","key":"culture","op":">=","value":2}]},
+  {"id":"control_hub","name":"交通要衝","description":"終局控制 1 個交通樞紐。","vp":4,"conditions":[{"kind":"control_tag","key":"hub","op":">=","value":1}]},
+  {"id":"trader_3","name":"好生意","description":"完成 3 次交易。","vp":5,"conditions":[{"kind":"stat","key":"trades","op":">=","value":3}]},
+  {"id":"contractor_3","name":"使命必達","description":"完成 3 個委託。","vp":5,"conditions":[{"kind":"stat","key":"contractsCompleted","op":">=","value":3}]},
+  {"id":"client_2","name":"幕後委託人","description":"你發布的委託被完成 2 次。","vp":4,"conditions":[{"kind":"stat","key":"contractsFulfilledForMe","op":">=","value":2}]},
+  {"id":"info_8","name":"情報網","description":"終局持有 8 情報。","vp":4,"conditions":[{"kind":"resource","key":"info","op":">=","value":8}]},
+  {"id":"influence_10","name":"地方名人","description":"終局擁有 10 影響力。","vp":5,"conditions":[{"kind":"resource","key":"influence","op":">=","value":10}]},
+  {"id":"rich_1500","name":"富甲一方","description":"終局持有 $1500。","vp":5,"conditions":[{"kind":"resource","key":"money","op":">=","value":1500}]},
+  {"id":"contest_2","name":"攻城略地","description":"爭奪成功 2 次。","vp":5,"conditions":[{"kind":"stat","key":"contestsWon","op":">=","value":2}]},
+  {"id":"peaceful","name":"和平商人","description":"整局不發起爭奪，並在終局控制至少 2 個地點。","vp":5,"conditions":[{"kind":"stat","key":"contestsStarted","op":"<=","value":0},{"kind":"control_count","op":">=","value":2}]},
+  {"id":"comeback","name":"谷底翻身","description":"曾陷入困境，之後重新持有 $600。","vp":7,"conditions":[{"kind":"flag","key":"recovered","op":">=","value":1}]},
+  {"id":"synergy_1","name":"城市規劃師","description":"形成 1 個地點組合。","vp":6,"conditions":[{"kind":"synergies","op":">=","value":1}]},
+  {"id":"crisis_hero","name":"城市英雄","description":"對城市危機貢獻 3 次以上。","vp":5,"conditions":[{"kind":"stat","key":"crisisContribution","op":">=","value":3}]},
+  {"id":"dominance","name":"一區之主","description":"終局主導任一地區。","vp":5,"conditions":[{"kind":"dominance","op":">=","value":1}]},
+  {"id":"builder_3","name":"建設狂","description":"完成 3 次建設。","vp":5,"conditions":[{"kind":"stat","key":"builds","op":">=","value":3}]},
+  {"id":"worker_6","name":"腳踏實地","description":"打工 6 次。","vp":4,"conditions":[{"kind":"stat","key":"works","op":">=","value":6}]}
+]

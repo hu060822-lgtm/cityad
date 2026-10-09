@@ -1,0 +1,7 @@
+[
+  {"id":"commerce","name":"商業","icon":"💰","description":"賺錢、投資、經營地點。","start":{"money":200}},
+  {"id":"explore","name":"探索","icon":"🧭","description":"移動、發現、收集地點。","start":{"money":80,"info":1}},
+  {"id":"intel","name":"情報","icon":"🔎","description":"調查、預知事件、販賣消息。","start":{"info":2}},
+  {"id":"control","name":"控制","icon":"🏯","description":"占領、建設、守住地盤。","start":{"influence":2}},
+  {"id":"social","name":"社交","icon":"🤝","description":"交易、委託、臨時合作。","start":{"influence":1,"info":1}}
+]
